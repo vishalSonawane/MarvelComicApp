@@ -1,0 +1,40 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - ReachabilitySwift (5.0.0)
+  - Realm (10.24.0):
+    - Realm/Headers (= 10.24.0)
+  - Realm/Headers (10.24.0)
+  - RealmSwift (10.24.0):
+    - Realm (= 10.24.0)
+  - SDWebImage (5.12.4):
+    - SDWebImage/Core (= 5.12.4)
+  - SDWebImage/Core (5.12.4)
+  - SkeletonView (1.29.2)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet
+  - ReachabilitySwift
+  - RealmSwift (~> 10)
+  - SDWebImage (~> 5.0)
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - DZNEmptyDataSet
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Realm: 5d6f84e3f65d4efa204d46b461e5bbbbbbf84c6c
+  RealmSwift: 9022754b93fad23e1ffc950c93574c5b7899bd51
+  SDWebImage: 631cf572cc93dfdfe54162e556410a61f1141928
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+
+PODFILE CHECKSUM: 9ad15982914370184ee2eab43f6bae6907983e19
+
+COCOAPODS: 1.11.2
